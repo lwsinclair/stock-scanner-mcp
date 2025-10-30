@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/wbsu2003-stock-scanner-mcp-badge.png)](https://mseep.ai/app/wbsu2003-stock-scanner-mcp)
+
 # 股票分析 MCP 服务
 
 **什么是 mcp-stock-scanner ？**
